@@ -2,13 +2,13 @@
   "name": "protractor-axe-report-plugin",
   "version": "1.1.0",
   "dependencies": {
-    "axe-core": "^2.0.5",
-    "axe-webdriverjs": "^0.2.0",
-    "selenium-webdriver": "^2.46.1"
+    "axe-core": "^3.4.1",
+    "axe-webdriverjs": "^2.3.0",
+    "selenium-webdriver": "^3.141.59"
   },
   "description": "A protractor plugin that generates an aXe accessibility report",
   "devDependencies": {
-    "protractor": "^4.0.10"
+    "protractor": "^5.4.2"
   },
   "main": "index.js",
   "repository": {
